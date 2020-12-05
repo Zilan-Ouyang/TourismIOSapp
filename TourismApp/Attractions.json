@@ -1,0 +1,51 @@
+[{
+    "name":"Wieliczka Salt Mine",
+    "address":"Daniłowicza 10, 32-020 Wieliczka, Poland",
+    "coverImg":"saltmine1",
+    "phone":"+48 122787302",
+    "website":"https://www.wieliczka-saltmine.com/",
+    "images":["saltmine1","saltmine2","saltmine3","saltmine4"],
+    "descrption":"Some 14km southeast of Kraków, the Wieliczka (vyeh-leech-kah) salt mine has been welcoming tourists since 1722 and today is one of Poland's most popular attractions. It's a subterranean labyrinth of tunnels and chambers – about 300km distributed over nine levels, the deepest being 327m underground – of which a small part is open to the public via two-hour guided tours. First-time visitors take a standard 'tourist' route of the main sights, while return visitors can opt for a more-immersive 'miners' route.",
+    "pricing":"$45"
+},
+{
+    "name":"Krakow's Rynek Glowny Central Square",
+    "address":"Rynek Glowny, Krakow, Poland",
+    "coverImg":"square1",
+    "phone":"N/A",
+    "website":"https://visitkrakow.com/krakows-market-square/",
+    "images":["square1","square2","square3","square4"],
+    "descrption":"Huge 10-acre square, the largest in any of Europe's medieval cities, features the 16th-century Renaissance Cloth Hall and the splendid 14th-century Gothic Basilica of the Virgin Mary.",
+    "pricing":"Free"
+},
+{
+    "name":"Wawel Royal Castle",
+    "address":"Wawel 5, Krakow 31-001 Poland",
+    "coverImg":"castle1",
+    "phone":"+48 124225155",
+    "website":"https://wawel.krakow.pl/en",
+    "images":["castle1","castle2","castle3","castle4"],
+    "descrption":"Serving as a royal residence and the site where the country's rulers governed Poland for five centuries (1038-1596), this castle is a symbol of the independent Polish state and today contains a priceless collection of 16th-century Flemish tapestries, considered to be one of the largest in the world.",
+    "pricing":"$5"
+},
+{
+    "name":"Państwowe Muzeum Auschwitz-Birkenau",
+    "address":"Więźniów Oświęcimia 20, 32-603 Oświęcim, Poland",
+    "coverImg":"camp1",
+    "phone":"+48 338448000",
+    "website":"https://bip.malopolska.pl/auschwitz",
+    "images":["camp1","camp2","camp3","camp4"],
+    "descrption":"The Auschwitz-Birkenau State Museum is a museum on the site of the Auschwitz concentration camp in Oświęcim, Poland. The site includes the main concentration camp at Auschwitz I and the remains of the concentration and extermination camp at Auschwitz II-Birkenau.",
+    "pricing":"Free"
+},
+{
+    "name":"St. Florian's Gate",
+    "address":"30-001 Kraków, Poland",
+    "coverImg":"gate1",
+    "phone":"+48 338448000",
+    "website":"http://www.krakow.travel/en/17748-krakow-saint-florians-gate",
+    "images":["gate1","gate2","gate3","gate4"],
+    "descrption":"St. Florian's Gate or Florian Gate in Kraków, Poland, is one of the best-known Polish Gothic towers, and a focal point of Kraków's Old Town. It was built about the 14th century as a rectangular Gothic tower of wild stone, part of the city fortifications against Turkish attack.",
+    "pricing":"Free"
+}
+]

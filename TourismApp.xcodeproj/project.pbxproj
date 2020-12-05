@@ -7,15 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84013CF925794ED80000EC14 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84013CF825794ED80000EC14 /* DetailViewController.swift */; };
+		840F79D3257AB39800461E86 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840F79D2257AB39800461E86 /* WebViewController.swift */; };
 		84CE059925787BA7007FD3A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CE059825787BA7007FD3A7 /* AppDelegate.swift */; };
 		84CE059B25787BA7007FD3A7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CE059A25787BA7007FD3A7 /* SceneDelegate.swift */; };
 		84CE059D25787BA7007FD3A7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CE059C25787BA7007FD3A7 /* ViewController.swift */; };
 		84CE05A025787BA7007FD3A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84CE059E25787BA7007FD3A7 /* Main.storyboard */; };
 		84CE05A225787BAB007FD3A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84CE05A125787BAB007FD3A7 /* Assets.xcassets */; };
 		84CE05A525787BAB007FD3A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84CE05A325787BAB007FD3A7 /* LaunchScreen.storyboard */; };
+		84CE05AD25789110007FD3A7 /* AttractionListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CE05AC25789110007FD3A7 /* AttractionListViewController.swift */; };
+		84CE05AF25789125007FD3A7 /* WishListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CE05AE25789125007FD3A7 /* WishListViewController.swift */; };
+		84CE05B125789269007FD3A7 /* users.json in Resources */ = {isa = PBXBuildFile; fileRef = 84CE05B025789269007FD3A7 /* users.json */; };
+		84CE05B325789352007FD3A7 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CE05B225789352007FD3A7 /* User.swift */; };
+		84CE05B525789D05007FD3A7 /* ItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CE05B425789D05007FD3A7 /* ItemTableViewCell.swift */; };
+		84CE05B725789FAC007FD3A7 /* Attraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CE05B625789FAC007FD3A7 /* Attraction.swift */; };
+		84CE05B92578A072007FD3A7 /* Attractions.json in Resources */ = {isa = PBXBuildFile; fileRef = 84CE05B82578A072007FD3A7 /* Attractions.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		84013CF825794ED80000EC14 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		840F79D2257AB39800461E86 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		84CE059525787BA7007FD3A7 /* TourismApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TourismApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84CE059825787BA7007FD3A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84CE059A25787BA7007FD3A7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +35,13 @@
 		84CE05A125787BAB007FD3A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84CE05A425787BAB007FD3A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84CE05A625787BAB007FD3A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84CE05AC25789110007FD3A7 /* AttractionListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttractionListViewController.swift; sourceTree = "<group>"; };
+		84CE05AE25789125007FD3A7 /* WishListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WishListViewController.swift; sourceTree = "<group>"; };
+		84CE05B025789269007FD3A7 /* users.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = users.json; sourceTree = "<group>"; };
+		84CE05B225789352007FD3A7 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		84CE05B425789D05007FD3A7 /* ItemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemTableViewCell.swift; sourceTree = "<group>"; };
+		84CE05B625789FAC007FD3A7 /* Attraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Attraction.swift; sourceTree = "<group>"; };
+		84CE05B82578A072007FD3A7 /* Attractions.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Attractions.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +81,15 @@
 				84CE05A125787BAB007FD3A7 /* Assets.xcassets */,
 				84CE05A325787BAB007FD3A7 /* LaunchScreen.storyboard */,
 				84CE05A625787BAB007FD3A7 /* Info.plist */,
+				84CE05AC25789110007FD3A7 /* AttractionListViewController.swift */,
+				84CE05AE25789125007FD3A7 /* WishListViewController.swift */,
+				84CE05B025789269007FD3A7 /* users.json */,
+				84CE05B225789352007FD3A7 /* User.swift */,
+				84CE05B425789D05007FD3A7 /* ItemTableViewCell.swift */,
+				84CE05B625789FAC007FD3A7 /* Attraction.swift */,
+				84CE05B82578A072007FD3A7 /* Attractions.json */,
+				84013CF825794ED80000EC14 /* DetailViewController.swift */,
+				840F79D2257AB39800461E86 /* WebViewController.swift */,
 			);
 			path = TourismApp;
 			sourceTree = "<group>";
@@ -125,8 +152,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84CE05B125789269007FD3A7 /* users.json in Resources */,
 				84CE05A525787BAB007FD3A7 /* LaunchScreen.storyboard in Resources */,
 				84CE05A225787BAB007FD3A7 /* Assets.xcassets in Resources */,
+				84CE05B92578A072007FD3A7 /* Attractions.json in Resources */,
 				84CE05A025787BA7007FD3A7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,8 +167,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84013CF925794ED80000EC14 /* DetailViewController.swift in Sources */,
 				84CE059D25787BA7007FD3A7 /* ViewController.swift in Sources */,
+				84CE05AF25789125007FD3A7 /* WishListViewController.swift in Sources */,
+				840F79D3257AB39800461E86 /* WebViewController.swift in Sources */,
+				84CE05B325789352007FD3A7 /* User.swift in Sources */,
+				84CE05AD25789110007FD3A7 /* AttractionListViewController.swift in Sources */,
+				84CE05B725789FAC007FD3A7 /* Attraction.swift in Sources */,
 				84CE059925787BA7007FD3A7 /* AppDelegate.swift in Sources */,
+				84CE05B525789D05007FD3A7 /* ItemTableViewCell.swift in Sources */,
 				84CE059B25787BA7007FD3A7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
